@@ -1,6 +1,6 @@
 # About me
 I'm a Computer Engineering student majoring in Artificial Intelligence and Data Analytics.  
-In the future I'd like to focus my career on Data Analytics and Big Data related topics using Python.
+In the future I'd like to focus my career on Data Engineering, Analytics and Big Data related topics using Python.
 
 ## My Skills
 
