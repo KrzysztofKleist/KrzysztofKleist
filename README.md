@@ -7,6 +7,7 @@ In the future I'd like to focus my career on Data Engineering, Analytics and Big
 - Python Basics (numpy, scipy, matplotlib)
 - Big Data - Hadoop and Spark
 - Machine Learning (basic theoretical and practical knowledge)
+- SQL
 - JavaScript Basics
 - Buiding websites with React
 
