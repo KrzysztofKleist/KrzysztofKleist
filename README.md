@@ -4,7 +4,8 @@ In the future I'd like to focus my career on Data Engineering, Analytics and Big
 
 ## My Skills
 
-- Python Basics (numpy, scipy, matplotlib)
+- Python Basics (numpy, scipy, matplotlib, pandas, pytorch)
+- Implementation of Neural Networks
 - Big Data - Hadoop and Spark
 - Machine Learning (basic theoretical and practical knowledge)
 - SQL
