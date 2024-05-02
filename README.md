@@ -7,14 +7,16 @@ In the future I'd like to focus my career on Data Engineering, Machine Learning,
 
 - Python Basics (numpy, scipy, matplotlib, pandas, pytorch, tensorflow)
 - Implementation of Neural Networks
-- Big Data - Hadoop and Spark
-- Machine Learning (basic theoretical and practical knowledge)
+- Machine Learning and Artificial Intelligence (theoretical and practical knowledge)
 - SQL
+- Big Data - Hadoop and Spark
 - JavaScript Basics
 - Buiding websites with React
 
 ## My Certificates
 
 - PCEP™ - Certified Entry-Level Python Programmer
-
+- PCAP™ - Certified Associate Python Programmer
+- AZ-900
+- AI-900
 
