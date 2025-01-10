@@ -1,6 +1,6 @@
 # About me
 I am a Computer Engineering graduate from Politecnico di Torino, with a major in Artificial Intelligence and Data Analytics.
-Currently I'm working as a Information Governance Engineer (Data Engineer).
+Currently I'm working as a Data Governance Engineer (Data Engineer).
 In the future I'd like to focus my career on Data Engineering, Machine Learning, Deep Learning and Big Data related topics using Python.
 
 ## My Skills
